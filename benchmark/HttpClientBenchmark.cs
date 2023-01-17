@@ -7,5 +7,5 @@ namespace Benchmarking;
 
 public class HttpClientBenchmark
 {
-    public void
+    
 }
